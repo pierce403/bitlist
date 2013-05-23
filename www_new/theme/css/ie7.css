@@ -1,0 +1,23 @@
+.home-hero .span12.search_input {
+	height: 20px;
+	min-height: 20px;
+	line-height: 20px;
+	border-width: 1px;
+	border-radius:0px;
+	width: 95%;
+	margin-top: 2px;
+}
+.home-hero .home_select {
+	height: 30px;
+	min-height: 30px;
+	line-height: 30px;
+	border-width: 1px;
+	border-radius:0px;
+	width: 95%;
+}
+.sidebar{
+	padding: 0;
+}
+.logo p{
+	margin-top: 10px;
+}
