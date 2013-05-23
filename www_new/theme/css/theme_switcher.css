@@ -1,0 +1,49 @@
+#slidecontent {
+  background: rgba(0, 0, 0, 0.6);
+  width: 300px;
+  padding-left: 10px;
+}
+#slideout {
+  position: absolute;
+  width: 358px;
+  height: auto;
+  top: 85px;
+  left: -310px;
+  color: #ffffff;
+}
+#slideout a {
+  color: #ffffff;
+}
+#clickme {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 48px;
+  padding-top: 8px;
+  width: 48px;
+  font-size: 32px;
+  color: #ffffff;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.6);
+  cursor: pointer;
+}
+.color_box {
+  height: 24px;
+  width: 24px;
+  display: block;
+  border: 2px #000 solid;
+  float: left;
+  margin-right: 5px;
+}
+.color_box.blue_box {
+  background: blue;
+}
+.color_box.clean_box {
+  background: #ffffff;
+}
+.color_box.red_box {
+  background: red;
+}
+.color_box.grey_box {
+  background: #E9E9E9;
+}
